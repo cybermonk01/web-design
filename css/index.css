@@ -94,3 +94,12 @@ button {
   left: 60px;
   height: 78%;
 }
+
+@media screen and (max-width: 950px) {
+  .signin-btn {
+    padding: 15px 45px;
+    margin-left: 60px;
+    position: relative;
+    left: 10px;
+  }
+}
